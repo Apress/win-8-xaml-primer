@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Liberty-Slate</Machine>
+    <WindowsUser>Jesse</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>097CCFBFAB4495A542A2FCF530C700FB44698DC8546603C81C286899175AD20B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7265fdcd-eb83-4a11-a555-8747002d0d64_1.0.0.0_neutral__2ysye2qyxxc1e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7265fdcd-eb83-4a11-a555-8747002d0d64_2ysye2qyxxc1e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7265fdcd-eb83-4a11-a555-8747002d0d64</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jesse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-24T13:14:47.027</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\bin\Debug\DataBinding1.exe">
+      <PackagePath>DataBinding1.exe</PackagePath>
+      <Modified>2012-08-24T13:14:46.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\bin\Debug\DataBinding1.pdb">
+      <PackagePath>DataBinding1.pdb</PackagePath>
+      <Modified>2012-08-24T13:14:46.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-24T13:13:08.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-24T13:14:45.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 2\DataBinding1\DataBinding1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-24T13:14:46.866</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

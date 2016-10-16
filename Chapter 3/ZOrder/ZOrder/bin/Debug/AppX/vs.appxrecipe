@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Liberty-Slate</Machine>
+    <WindowsUser>Jesse</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>9A2FEC8FA4F6A390B2C8EDACEC1614A21C7070915B8236E14197D43069AAC3B8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f1456a48-dd5f-42b5-9d10-d7459e19eacd_1.0.0.0_neutral__2ysye2qyxxc1e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f1456a48-dd5f-42b5-9d10-d7459e19eacd_2ysye2qyxxc1e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f1456a48-dd5f-42b5-9d10-d7459e19eacd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jesse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-24T13:31:34.753</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\ZOrder.exe">
+      <PackagePath>ZOrder.exe</PackagePath>
+      <Modified>2012-08-24T13:31:34.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\ZOrder.pdb">
+      <PackagePath>ZOrder.pdb</PackagePath>
+      <Modified>2012-08-24T13:31:34.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-24T13:31:04.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-24T13:31:33.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-24T13:31:34.677</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

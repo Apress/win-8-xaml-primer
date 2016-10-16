@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Liberty-Slate</Machine>
+    <WindowsUser>Jesse</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B115135798A30A0C6E66C295A9F6AC17EC1E1B6441EE619A73350D82DE0E6376</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0f2c3b29-3833-42a2-a327-480f07deb04e_1.0.0.0_neutral__2ysye2qyxxc1e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0f2c3b29-3833-42a2-a327-480f07deb04e_2ysye2qyxxc1e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0f2c3b29-3833-42a2-a327-480f07deb04e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jesse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-24T13:37:35.941</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\bin\Debug\Border.exe">
+      <PackagePath>Border.exe</PackagePath>
+      <Modified>2012-08-24T13:37:35.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\bin\Debug\Border.pdb">
+      <PackagePath>Border.pdb</PackagePath>
+      <Modified>2012-08-24T13:37:35.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-24T13:37:10.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-24T13:37:34.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\Border\Border\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-24T13:37:35.855</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

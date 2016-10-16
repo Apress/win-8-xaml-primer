@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Liberty-Slate</Machine>
+    <WindowsUser>Jesse</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\ZOrder.exe">
+      <PackagePath>ZOrder.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\ZOrder.pdb">
+      <PackagePath>ZOrder.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ZOrder\ZOrder\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

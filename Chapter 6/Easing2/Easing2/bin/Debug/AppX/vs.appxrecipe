@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Liberty-Slate</Machine>
+    <WindowsUser>Jesse</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B9F555F003D0BD717508782D53B875E1C20B716C50A30EB7E55610FCDD5257F4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2318bdad-a502-4502-b16d-6e1f9922b827_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2318bdad-a502-4502-b16d-6e1f9922b827_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2318bdad-a502-4502-b16d-6e1f9922b827</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-23T18:45:03.034</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\bin\Debug\Easing2.exe">
+      <PackagePath>Easing2.exe</PackagePath>
+      <Modified>2012-08-23T18:49:53.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\bin\Debug\Easing2.pdb">
+      <PackagePath>Easing2.pdb</PackagePath>
+      <Modified>2012-08-23T18:49:53.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-23T13:48:54.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-23T18:49:43.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\Easing2\Easing2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-23T18:45:02.977</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

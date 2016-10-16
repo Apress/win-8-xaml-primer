@@ -1,0 +1,1 @@
+C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 6\FromToAnimation\FromToAnimation\FromToAnimation.csproj;neutral

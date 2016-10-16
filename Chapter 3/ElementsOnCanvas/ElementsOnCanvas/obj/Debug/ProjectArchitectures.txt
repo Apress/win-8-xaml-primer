@@ -1,0 +1,1 @@
+C:\Users\Jesse\Documents\Visual Studio 2012\Projects\Book\Chapter 3\ElementsOnCanvas\ElementsOnCanvas\ElementsOnCanvas.csproj;neutral
